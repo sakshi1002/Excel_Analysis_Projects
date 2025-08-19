@@ -23,7 +23,5 @@ Projects include:
 - **KPI Development**: Calculated key performance indicators like total/average sales, membership usage, and streaming trends.
 - **Actionable Recommendations**: Derived business-level observations and suggestions based on data findings.
 
----
 
-##  Repository Structure
 
